@@ -7,5 +7,60 @@
     padding:0;
 }
 
-/* Fill your code*/
+.header
+{
+    height: 70px;
+    background-color: #3f000f;
+}
+.main
+{
+    height: 650px;
+    background-color: plum;
+}
+.footer
+{
+    height:70px;
+    background-color:#3f000f;
+}
+button{
+    color: white;
+    background-color: plum;
+    width: 135px;
+    height: 40px;
+    margin-top: 20px;
+    padding:10px;
+    margin-left: 100px;
+    font-weight: bold;
+    font-size: larger;
+    border-radius: 8px;
+}
+.b1{
+    background-color: yellowgreen;
+    width: 75px;
+}
+.img1{
+    margin-top:250px;
+    margin-left:200px;
+}
+.img2{
+    margin-top:250px;
+    margin-left:750px;
+}
+.h1{
+    position: absolute;
+    top: 350px;
+    left: 290px;
+    font-weight: bold;
+    color:whitesmoke;
 
+   
+}
+.p1{
+    color:whitesmoke;
+    position: absolute;
+    top: 430px;
+    left: 260px;
+    font-size: larger;
+    font-weight: bold;
+            
+}
